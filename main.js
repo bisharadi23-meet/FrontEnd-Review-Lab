@@ -1,3 +1,4 @@
-function change_color() {
-  var x = 5;
+function changeBackgroundColor(color)
+{
+document.body.style.backgroundColor = color;
 }
