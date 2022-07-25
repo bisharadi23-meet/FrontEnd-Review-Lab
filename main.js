@@ -1,4 +1,3 @@
 function change_color() {
-	
-	// body...
+  var x = 5;
 }
